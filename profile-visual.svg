@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15191f"/><stop offset="1" stop-color="#080a0d"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#c9f36a" stop-opacity=".32"/><stop offset="1" stop-color="#c9f36a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<circle cx="610" cy="190" r="300" fill="url(#glow)"/>
+<g opacity=".22" stroke="#c9f36a"><path d="M0 150H800M0 300H800M0 450H800M0 600H800M0 750H800M0 900H800"/><path d="M100 0V1000M250 0V1000M400 0V1000M550 0V1000M700 0V1000"/></g>
+<circle cx="400" cy="350" r="145" fill="#222830"/>
+<path d="M265 335c20-112 247-145 270 0-15-31-47-56-81-64-28 30-81 42-133 25-22 12-40 25-56 39z" fill="#090b0e"/>
+<path d="M314 367c28 23 55 34 86 34 35 0 63-11 88-34" fill="none" stroke="#777f8b" stroke-width="8" stroke-linecap="round"/>
+<circle cx="350" cy="345" r="9" fill="#c9f36a"/><circle cx="450" cy="345" r="9" fill="#c9f36a"/>
+<path d="M205 870c25-182 105-260 195-260s170 78 195 260" fill="#20262e"/>
+<path d="M292 635l108 100 108-100" fill="none" stroke="#c9f36a" stroke-width="6" opacity=".8"/>
+<text x="42" y="940" fill="#c9f36a" font-family="monospace" font-size="22" letter-spacing="5">HRISHABH / 2026</text>
+</svg>
