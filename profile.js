@@ -25,10 +25,39 @@ window.profile = {
   ],
   technologies: ["HTML", "CSS", "JavaScript", "Python", "C++", "Git", "GitHub"],
   projects: [
-    { name: "MRVION Global Herbs", image: "mrvion.svg", description: "A polished one-page business website created and deployed for a real client, including a custom domain and responsive presentation.", technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"], github: "", live: "https://mrvionglobalherbs.com/" },
-    { name: "AI Content Creation", image: "ai-content.svg", description: "AI-assisted image and video creation experiments combining generative tools, editing, and digital design.", technologies: ["AI Tools", "CapCut", "DaVinci Resolve", "Canva"], github: "", live: "" },
-    { name: "Digital Design Work", image: "design.svg", description: "Creative digital design work focused on clean visual communication and practical content for online use.", technologies: ["Canva", "AI Tools"], github: "", live: "" }
-  ],
+  {
+    name: "MRVION Global Herbs",
+    image: "mrvion.svg",
+    description: "A polished one-page business website created and deployed for a real client, including a custom domain and responsive presentation.",
+    technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    github: "",
+    live: "https://mrvionglobalherbs.com/"
+  },
+  {
+    name: "TypeBud",
+    image: "design.svg",
+    description: "A browser-based typing practice game designed to help users improve typing speed, accuracy, and consistency.",
+    technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    github: "https://github.com/Hrishabh-Sharma/TypeBud",
+    live: "https://typebud.cc.cd"
+  },
+  {
+    name: "AI Content Creation",
+    image: "ai-content.svg",
+    description: "AI-assisted image and video creation experiments combining generative tools, editing, and digital design.",
+    technologies: ["AI Tools", "CapCut", "DaVinci Resolve", "Canva"],
+    github: "",
+    live: ""
+  },
+  {
+    name: "Digital Design Work",
+    image: "design.svg",
+    description: "Creative digital design work focused on clean visual communication and practical content for online use.",
+    technologies: ["Canva", "AI Tools"],
+    github: "",
+    live: ""
+  }
+],
   experience: [
     { position: "Freelance Web Developer", organization: "Independent", date: "2026", description: "Built and delivered a responsive one-page business website for a real client, including domain setup and deployment through GitHub Pages." }
   ],
