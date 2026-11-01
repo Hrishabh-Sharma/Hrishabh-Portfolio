@@ -26,20 +26,20 @@ window.profile = {
   technologies: ["HTML", "CSS", "JavaScript", "Python", "C++", "Git", "GitHub"],
   projects: [
   {
-    name: "MRVION Global Herbs",
-    image: "mrvion.svg",
-    description: "A polished one-page business website created and deployed for a real client, including a custom domain and responsive presentation.",
-    technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
-    github: "",
-    live: "https://mrvionglobalherbs.com/"
-  },
-  {
     name: "TypeBud",
     image: "design.svg",
     description: "A browser-based typing practice game designed to help users improve typing speed, accuracy, and consistency.",
     technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
     github: "https://github.com/Hrishabh-Sharma/TypeBud",
     live: "https://typebud.cc.cd"
+  },
+  {
+    name: "MRVION Global Herbs",
+    image: "mrvion.svg",
+    description: "A polished one-page business website created and deployed for a real client, including a custom domain and responsive presentation.",
+    technologies: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    github: "",
+    live: "https://mrvionglobalherbs.com/"
   },
   {
     name: "AI Content Creation",
